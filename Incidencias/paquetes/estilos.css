@@ -1,0 +1,103 @@
+/**{margin:0;padding:0;}
+body{background:#ffffff  ;color:#000000;font-family:arial,verdana,arial;font-size:12px;}
+
+#general{margin:0 auto;width:720px;border:1px solid #888;}
+#cabecera{background:#1A202C url(images/banner1m.jpg) no-repeat 12px center;color:#ffffff;padding:25px 0 25px 0;text-align:center;}
+#lateral{background:#eee;width:110px;float:left;padding:5px;min-height:300px}
+
+.menuve{list-style-type:none;margin:0px;padding:0px;}
+.menuve ul{list-style-type:none;}
+.menuve li{height:20px;margin-bottom:1px;}
+.menuve li a{height:20px;display:block;width:122px;
+             padding-left:5px;
+             background:#1F7872;color:#fff;
+             text-decoration:none;background:url(images/bg2.jpg)}
+.menuve li a:hover{background:#72B095;color:#fff;}
+
+#contenido{background:#FFFFFF;width:590px;float:left;padding:5px;min-height:300px}
+#contenido h2{background:#eee;padding-right:40px;text-align:right;color:#D13F31}
+#contenido h3{font-size:18px;padding:8 0 8px}
+#pie{background:#1A202C;color:#fff;clear:both;text-align:center;}
+
+label{
+    width: 5em;
+    float: left;
+    text-align: right;
+    margin-right: 0.5em;
+    display: block
+}
+
+.submit input{
+    margin-left: 5.0em;
+}
+input{
+    color: #781351;
+    background: #eee;
+    border: 1px solid #1A202C
+}
+
+.submit input{
+    color: #fff;    
+    border: 1px outset #1A202C;
+    padding:2 8 2 8px;
+    background:url(images/bg2.jpg);
+
+}
+form{
+    border: 1px solid #1A202C;
+    width: 20em;
+    font-family:arial,verdana,arial;font-size:12px;
+    text-align:left;
+}
+form p{
+    margin:3px;
+}
+form .titulo{
+    background-color:red;
+    padding:5px;
+    color:white;
+    font-weight:bold;
+    background:url(images/bg2.jpg)
+}
+
+table{
+    font-family:arial,verdana,arial;font-size:12px;
+    text-align:left;
+    border:1px solid #333;
+}
+table th{
+    color:white;
+    font-weight:bold;
+    background:url(images/bg2.jpg);
+    padding:3px;
+}
+#panel{
+    border: 1px solid red;
+    width: 300px;
+    padding: 5px;
+    margin: 5px 0 5px 0;
+
+}*/
+#caja {
+    width: 150px;
+    height: 230px;
+    float:left;
+    border:1px solid grey;
+    margin:5px;
+    padding: 3px;
+    text-align: center;
+
+}
+
+
+#nombrecaja{
+    height:30px;
+
+
+}
+
+
+
+
+
+

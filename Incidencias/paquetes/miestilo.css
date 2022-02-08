@@ -1,0 +1,43 @@
+    .centrar_menu
+            {
+                /*nos posicionamos en el centro del navegador*/
+                top:50%;
+                left:50%;
+                /*determinamos una anchura*/
+                /*                width:80%;
+                                background-color: red;*/
+                margin-left: 20%;
+
+
+            }
+            .centrar_slider
+            {
+                /*nos posicionamos en el centro del navegador*/
+                /*                top:50%;
+                                left:50%;*/
+                /*determinamos una anchura*/
+                width:80%;
+                margin-left: 10%;
+            }
+            .centrar_productos
+            {
+
+                width:80%;
+                margin-left: 10%;
+
+
+            }
+            .centrar_productos_sub{
+/*                background-color: white;*/
+                width:30%;
+                float:left;
+                margin-left: 3%;
+               
+
+            }
+            .pie{
+/*                background-color: white;*/
+                background-color: #ac2925;
+               
+
+            }
